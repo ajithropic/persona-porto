@@ -1,5 +1,5 @@
 /* eslint-disable no-unused-vars */
-import { motion } from "framer-motion";
+import { motion, AnimatePresence } from "framer-motion";
 import { useLocation } from "react-router-dom";
 
 const defaultBlocks = ["#0d1a3a", "#1a6aff", "#7dd4fc"];
