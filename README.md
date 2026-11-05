@@ -1,32 +1,8 @@
-# Persona Porto
-
-Website portfolio pribadi dengan tema **Persona 3**: menu bergaya P3, animasi yang halus, dan navigasi antarhalaman yang terasa seperti main game. Dibangun dengan React dan Vite.
-
-<!-- Ganti dengan screenshot asli, taruh di folder public/ -->
-<!-- ![Preview](public/preview.png) -->
-
-🔗 **Live demo:https://ajithropic.github.io/persona-porto/ ** 
+🔗 https://ajithropic.github.io/persona-porto/ 
 
 ---
 
-## Fitur
-
-- Menu utama bergaya Persona 3 (`P3Menu.jsx`)
-- Animasi dan transisi antarhalaman dengan Framer Motion
-- Routing multi-halaman dengan React Router
-- Struktur ringan dan cepat berkat Vite
-
-## Tech Stack
-
-| Kategori | Teknologi |
-| --- | --- |
-| Framework | React 19 |
-| Build tool | Vite |
-| Routing | React Router DOM 7 |
-| Animasi | Framer Motion |
-| Linting | ESLint 9 |
-
-## Struktur Folder
+## Struktur 
 
 ```
 persona-porto/
@@ -74,8 +50,5 @@ Buka `http://localhost:5173` di browser.
 Hasil build ada di folder `dist/` dan bisa di-deploy ke hosting statis seperti Vercel, Netlify, atau GitHub Pages.
 
 ## Author
-
-**Purbo Aji Bimantoro** (Aji)
-Mahasiswa D3 Teknik Informatika, Universitas Amikom Yogyakarta
 
 GitHub: [@ajithropic](https://github.com/ajithropic)
