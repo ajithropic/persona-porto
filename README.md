@@ -6,13 +6,13 @@
 
 ```
 persona-porto/
-├── public/          # Aset statis (gambar, ikon, font)
-├── scripts/         # Script bantu, misalnya watch-build
-├── src/             # Source code utama (komponen, halaman, style)
-├── P3Menu.jsx       # Komponen menu bergaya Persona 3
-├── index.html       # Entry point HTML
-├── vite.config.js   # Konfigurasi Vite
-└── eslint.config.js # Konfigurasi ESLint
+├── public/          
+├── scripts/         
+├── src/            
+├── P3Menu.jsx       
+├── index.html       
+├── vite.config.js   
+└── eslint.config.js 
 ```
 
 ## Cara Menjalankan
